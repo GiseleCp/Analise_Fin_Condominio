@@ -132,7 +132,6 @@ jupyter notebook
 
 **Gisele Pereira**  
 🔗 LinkedIn: https://www.linkedin.com/in/giselecpereira  
-🔗 GitHub: (adicione aqui)
 
 ---
 
